@@ -1,0 +1,760 @@
+<html><head><meta charset="UTF-8">
+<title>Device Data</title>
+
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #dddddd;
+    }
+    html,body,h1,h2,h3,h4,h5,h6 {
+      font-family: "Roboto", sans-serif
+    }
+    body {
+      margin:auto;
+      padding:0.01em 16px
+    }
+    .title{
+      color:#757575!important;
+      font-size:30px!important;
+      padding-top:16px!important;
+      padding-bottom:8px!important;
+    }
+    .category-title {
+      font-size:24px!important;
+      opacity:0.75;
+    }
+    table {
+      border-collapse: collapse;
+      width: 80%;
+      display:table;
+    }
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    th {
+      background-color: #dddddd;
+    }
+  </style></head><body>
+
+<div class="title">
+<img src="https://www.gstatic.com/images/icons/material/system/1x/phone_android_grey600_24dp.png" alt="Icon">
+ANDROID DEVICE CONFIGURATION SERVICE DATA
+</div>
+
+<h3 class="category-title">Device and Account Identifiers</h3>
+Android ID: 3545808200441776381<br/>
+MEID(s): 35152911004942<br/>
+IMEI(s): 351529110049429<br/>
+ESN(s): <br/>
+Serial Number(s): B110DL:1040322020000562<br/>
+MAC Addresses: <br/>
+<br/>
+<hr>
+
+<h3 class="category-title">Device Attributes</h3>
+Locale: en-US<br/>
+Timezone: America/Chicago<br/>
+IP address from Last Data Connection: 174.255.136.204<br/>
+<br/>
+Hardware: mt6761<br/>
+Model: B110DL<br/>
+Brand: BLU<br/>
+Manufacturer: BLU<br/>
+Device: B110DL<br/>
+Product: B110DL<br/>
+Radio Firmware Version: MOLY.LR12A.R3.MP.V79.9.P31<br/>
+Bootloader Firmware Version: unknown<br/>
+<br/>
+Device Type: Phone<br/>
+Touch Screen Type: Finger<br/>
+Keyboard Type: No Keys<br/>
+Hard Keyboard: false<br/>
+Navigation Type: No Navigation<br/>
+Five Way Navigation: false<br/>
+Screen Layout: Normal<br/>
+Dynamic Screen Layout: Undefined<br/>
+Screen Density: 320 DPI<br/>
+Screen Height: 1440 pixels<br/>
+Screen Width: 720 pixels<br/>
+Smallest Screen Width: 360 pixels<br/>
+<br/>
+System Shared Libraries: android.ext.services, android.ext.shared, android.test.base, android.test.mock, android.test.runner, com.android.future.usb.accessory, com.android.location.provider, com.android.media.remotedisplay, com.android.mediadrm.signer, com.google.android.gms, com.google.android.maps, com.mediatek.ims.plugin, com.mediatek.op.ims.common, javax.obex, org.apache.http.legacy<br/>
+Supported Native Platforms / CPU Types: arm64-v8a, armeabi-v7a, armeabi<br/>
+Supported Locales: af, am, ar, as, az, be, bg, bn, bs, ca, cs, da, de, el, en, en-GB, en-US, es, es-US, et, eu, fa, fi, fil, fr, fr-CA, fr-FR, gl, gu, hi, hr, hu, hy, in, is, it, iw, ja, ka, kk, km, kn, ko, ky, lo, lt, lv, mk, ml, mn, mr, ms, my, nb, ne, nl, or, pa, pl, pt, pt-BR, pt-PT, ro, ru, si, sk, sl, sq, sr, sr-Latn, sv, sw, ta, te, th, tr, uk, ur, uz, vi, zh-CN, zh-HK, zh-TW, zu<br/>
+Supported OpenGL Extensions: GL_ANDROID_extension_pack_es31a, GL_APPLE_texture_2D_limited_npot, GL_EXT_EGL_image_array, GL_EXT_YUV_target, GL_EXT_blend_minmax, GL_EXT_buffer_storage, GL_EXT_clear_texture, GL_EXT_clip_control, GL_EXT_color_buffer_float, GL_EXT_color_buffer_half_float, GL_EXT_conservative_depth, GL_EXT_copy_image, GL_EXT_debug_marker, GL_EXT_discard_framebuffer, GL_EXT_draw_buffers, GL_EXT_draw_buffers_indexed, GL_EXT_draw_elements_base_vertex, GL_EXT_external_buffer, GL_EXT_float_blend, GL_EXT_geometry_point_size, GL_EXT_geometry_shader, GL_EXT_gpu_shader5, GL_EXT_memory_object, GL_EXT_memory_object_fd, GL_EXT_multi_draw_arrays, GL_EXT_multisampled_render_to_texture, GL_EXT_multisampled_render_to_texture2, GL_EXT_occlusion_query_boolean, GL_EXT_polygon_offset_clamp, GL_EXT_primitive_bounding_box, GL_EXT_pvrtc_sRGB, GL_EXT_read_format_bgra, GL_EXT_robustness, GL_EXT_sRGB_write_control, GL_EXT_separate_shader_objects, GL_EXT_shader_framebuffer_fetch, GL_EXT_shader_group_vote, GL_EXT_shader_implicit_conversions, GL_EXT_shader_io_blocks, GL_EXT_shader_non_constant_global_initializers, GL_EXT_shader_pixel_local_storage, GL_EXT_shader_pixel_local_storage2, GL_EXT_shader_texture_lod, GL_EXT_sparse_texture, GL_EXT_tessellation_point_size, GL_EXT_tessellation_shader, GL_EXT_texture_border_clamp, GL_EXT_texture_buffer, GL_EXT_texture_cube_map_array, GL_EXT_texture_filter_anisotropic, GL_EXT_texture_format_BGRA8888, GL_EXT_texture_rg, GL_EXT_texture_sRGB_R8, GL_EXT_texture_sRGB_RG8, GL_EXT_texture_sRGB_decode, GL_IMG_bindless_texture, GL_IMG_framebuffer_downsample, GL_IMG_multisampled_render_to_texture, GL_IMG_program_binary, GL_IMG_read_format, GL_IMG_shader_binary, GL_IMG_texture_compression_pvrtc, GL_IMG_texture_compression_pvrtc2, GL_IMG_texture_format_BGRA8888, GL_IMG_texture_npot, GL_IMG_vertex_array_object, GL_KHR_blend_equation_advanced, GL_KHR_blend_equation_advanced_coherent, GL_KHR_debug, GL_KHR_robustness, GL_KHR_texture_compression_astc_ldr, GL_OES_EGL_image, GL_OES_EGL_image_external, GL_OES_EGL_image_external_essl3, GL_OES_EGL_sync, GL_OES_blend_equation_separate, GL_OES_blend_func_separate, GL_OES_blend_subtract, GL_OES_byte_coordinates, GL_OES_compressed_ETC1_RGB8_texture, GL_OES_compressed_paletted_texture, GL_OES_depth24, GL_OES_depth_texture, GL_OES_draw_buffers_indexed, GL_OES_draw_elements_base_vertex, GL_OES_draw_texture, GL_OES_egl_sync, GL_OES_element_index_uint, GL_OES_extended_matrix_palette, GL_OES_fixed_point, GL_OES_fragment_precision_high, GL_OES_framebuffer_object, GL_OES_geometry_point_size, GL_OES_geometry_shader, GL_OES_get_program_binary, GL_OES_gpu_shader5, GL_OES_mapbuffer, GL_OES_matrix_get, GL_OES_matrix_palette, GL_OES_packed_depth_stencil, GL_OES_point_size_array, GL_OES_point_sprite, GL_OES_query_matrix, GL_OES_read_format, GL_OES_required_internalformat, GL_OES_rgb8_rgba8, GL_OES_sample_shading, GL_OES_sample_variables, GL_OES_shader_image_atomic, GL_OES_shader_io_blocks, GL_OES_shader_multisample_interpolation, GL_OES_single_precision, GL_OES_standard_derivatives, GL_OES_stencil8, GL_OES_stencil_wrap, GL_OES_surfaceless_context, GL_OES_tessellation_point_size, GL_OES_tessellation_shader, GL_OES_texture_border_clamp, GL_OES_texture_buffer, GL_OES_texture_cube_map, GL_OES_texture_cube_map_array, GL_OES_texture_env_crossbar, GL_OES_texture_float, GL_OES_texture_half_float, GL_OES_texture_mirrored_repeat, GL_OES_texture_npot, GL_OES_texture_stencil8, GL_OES_texture_storage_multisample_2d_array, GL_OES_vertex_array_object, GL_OES_vertex_half_float<br/>
+Number Of Available Processors: 4<br/>
+Secure Screenlock Available: true<br/>
+Total Memory: 1916649472 Bytes<br/>
+Low Ram Device: false<br/>
+Maximum APK Download Size: 50 MB<br/>
+OEM Play Auto Installs Configuration Key: <br/>
+OTA Installed Build: true<br/>
+System Available Features: 
+<table border="1"><tr>
+    <th>Feature</th>
+    <th>Version</th>
+</tr><tr>
+    <td>android.hardware.audio.low_latency</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.audio.output</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.bluetooth</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.bluetooth_le</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.camera</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.camera.any</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.camera.autofocus</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.camera.capability.manual_post_processing</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.camera.capability.manual_sensor</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.camera.flash</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.camera.front</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.faketouch</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.location</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.location.gps</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.location.network</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.microphone</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.opengles.aep</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.ram.normal</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.screen.landscape</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.screen.portrait</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.sensor.accelerometer</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.sensor.light</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.sensor.proximity</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.telephony</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.telephony.gsm</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.touchscreen</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.touchscreen.multitouch</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.touchscreen.multitouch.distinct</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.touchscreen.multitouch.jazzhand</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.usb.accessory</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.wifi</td>
+    <td></td>
+</tr><tr>
+    <td>android.hardware.wifi.direct</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.activities_on_secondary_displays</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.adoptable_storage</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.app_widgets</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.autofill</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.backup</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.cant_save_state</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.companion_device_setup</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.connectionservice</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.cts</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.device_admin</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.file_based_encryption</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.home_screen</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.input_methods</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.live_wallpaper</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.managed_users</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.midi</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.picture_in_picture</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.print</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.securely_removes_users</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.sip</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.sip.voip</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.verified_boot</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.voice_recognizers</td>
+    <td></td>
+</tr><tr>
+    <td>android.software.webview</td>
+    <td></td>
+</tr><tr>
+    <td>com.google.android.feature.GMSEXPRESS_PLUS_BUILD</td>
+    <td></td>
+</tr><tr>
+    <td>com.google.android.feature.WELLBEING</td>
+    <td></td>
+</tr>
+</table><br/>
+<hr>
+
+<h3 class="category-title">System Software and Security Versions</h3>
+OS Build Fingerprint: BLU/B110DL/B110DL:9/PPR1.180610.011/113:user/release-keys<br/>
+OS Build Timestamp: Mar 12, 2020, 2:06:08 PM UTC<br/>
+Android SDK Version: 28<br/>
+Google Services Framework / Google Play Services Version: 202117029<br/>
+Security Patch Level: 2020-02-05<br/>
+OTA Certificates: HN9sCN3fiQT4LMfoQjBJOTvXKb4=<br/>
+<hr>
+
+<h3 class="category-title">Network Connectivity &amp; Performance</h3>
+Current SIM Operator(MCC+MNC): 311480<br/>
+Current Cell Operator(MCC+MNC): 311480<br/>
+Data Network Type: MOBILE<br/>
+Last SIM Operator(MCC+MNC): 311480<br/>
+Last Cell Operator(MCC+MNC): 311480<br/>
+SIM Subscription Data: 
+<table border="1"><tr>
+    <th>SIM Operator (MCC+MNC)</th>
+    <th>Carrier Name</th>
+    <th>Roaming State</th>
+    <th>Default Roles</th>
+    <th>Truncated IMSI</th>
+    <th>Group ID Level1</th>
+</tr><tr>
+    <td>311480</td>
+    <td>HOME</td>
+    <td>Data Roaming Enabled</td>
+    <td>Voice, Data, SMS</td>
+    <td>311480571500000</td>
+    <td>BA01270000000000</td>
+</tr>
+</table><br/>
+Registration Time: Jun 23, 2020, 1:55:38 AM UTC<br/>
+First Data Connection Time: Jun 23, 2020, 1:55:38 AM UTC<br/>
+<br/>
+Time of Last Data Connection: Jul 1, 2020, 3:36:13 AM UTC<br/>
+Reason for Last Data Connection: Unknown<br/>
+Last Data Connection Attempt Count: 1<br/>
+App Package Triggering Last Data Connection: unspecified<br/>
+App Class Triggering Last Data Connection: <br/>
+App Used Force Option For Triggering Last Data Connection: <br/>
+<h3>Recent Successful Android Device Configuration Service Connections: </h3>
+<table border="1"><tr>
+    <th>Connection Time</th>
+    <th>Build Fingerprint</th>
+    <th>Product</th>
+    <th>Brand</th>
+    <th>Radio Firmware Version</th>
+    <th>Bootloader Firmware Version</th>
+    <th>Google Play Services Version</th>
+</tr><tr>
+    <td>Jun 23, 2020, 1:55:38 AM UTC</td>
+    <td>BLU/B110DL/B110DL:9/PPR1.180610.011/113:user/release-keys</td>
+    <td>mt6761</td>
+    <td>BLU</td>
+    <td>MOLY.LR12A.R3.MP.V79.9.P31</td>
+    <td>unknown</td>
+    <td>19629028</td>
+</tr><tr>
+    <td>Jun 23, 2020, 2:02:43 AM UTC</td>
+    <td>BLU/B110DL/B110DL:9/PPR1.180610.011/113:user/release-keys</td>
+    <td>mt6761</td>
+    <td>BLU</td>
+    <td>MOLY.LR12A.R3.MP.V79.9.P31</td>
+    <td>unknown</td>
+    <td>202117029</td>
+</tr><tr>
+    <td>Jun 28, 2020, 11:01:03 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 28, 2020, 12:59:59 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 28, 2020, 3:03:35 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 28, 2020, 4:12:17 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 28, 2020, 4:12:54 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 28, 2020, 5:31:14 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 28, 2020, 7:13:07 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 28, 2020, 9:00:19 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 28, 2020, 11:08:33 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 12:19:51 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 12:20:17 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 1:23:42 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 1:24:09 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 1:24:27 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 3:15:15 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 5:03:03 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 5:48:25 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 5:49:23 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 7:08:48 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 2:47:21 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 2:47:42 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 2:47:58 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 2:48:08 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 3:43:16 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 3:43:54 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 4:50:03 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 7:06:02 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 8:47:04 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 8:48:13 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 29, 2020, 10:48:10 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 12:44:19 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 12:44:55 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 12:48:28 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 2:08:15 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 2:08:49 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 2:50:58 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 4:48:41 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 6:48:18 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 8:50:56 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 9:22:59 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 9:24:19 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 11:10:34 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 11:11:31 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 11:11:42 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 11:33:01 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 11:34:22 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 11:34:56 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jun 30, 2020, 11:35:35 PM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jul 1, 2020, 1:39:14 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>Jul 1, 2020, 3:36:13 AM UTC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+</table><br/>
+<h3>Recent Failed Android Device Configuration Service Connections: </h3>
+<table border="1"><tr>
+    <th>Connection Time</th>
+    <th>HTTP Response Code</th>
+</tr>
+</table><br/>
+<hr>
+</body></html>
